@@ -199,7 +199,8 @@ body{
    instead of centering the overflowing flex content, which can hide the
    beginning of the section and make it unreachable at scrollTop 0. */
 .slide[data-index="3"]{
-  justify-content:flex-start;
+  display:block;
+  text-align:center;
   padding-top:clamp(82px,11vh,120px);
   padding-bottom:clamp(82px,11vh,120px);
 }
