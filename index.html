@@ -736,6 +736,7 @@ setTimeout(()=>sparkle.remove(),700);
     slides[current].classList.remove('active');
     current = index;
     slides[current].classList.add('active');
+    slides[current].scrollTop = 0;
     updateProgress();
     tapHint.style.display =
       (current===total-1 || (current===4 && typeof openedLetters !== 'undefined' && openedLetters.size < 6))
@@ -814,7 +815,20 @@ setTimeout(()=>sparkle.remove(),700);
 
 }
 
+  let pointerStartX = 0;
+  let pointerStartY = 0;
+  let suppressTap = false;
+  stage.addEventListener('pointerdown', (e) => {
+    pointerStartX = e.clientX;
+    pointerStartY = e.clientY;
+    suppressTap = false;
+  }, {passive:true});
+  stage.addEventListener('pointermove', (e) => {
+    if (Math.hypot(e.clientX - pointerStartX, e.clientY - pointerStartY) > 8) suppressTap = true;
+  }, {passive:true});
+  stage.addEventListener('pointercancel', () => { suppressTap = true; }, {passive:true});
   stage.addEventListener("click", (e) => {
+    if (suppressTap) { suppressTap = false; return; }
 
     if (
     e.target.closest('.wish-box') ||
