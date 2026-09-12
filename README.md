@@ -328,7 +328,7 @@ Created With the Help of Claude AI And ChatGPT, Customized & Crafted by **Awaken
 
 Made by **@Awakenedarpit**.
 
-- GitHub: [awakenedarpit/Mahima---Final-Surprise](https://github.com/awakenedarpit/Mahima---Final-Surprise)
+- GitHub: [awakenedarpit/Final-Birthday-Surprise](https://github.com/awakenedarpit/Final-Birthday-Surprise)
 - Instagram: [@Awakenedarpit](https://www.instagram.com/awakenedarpit?igsh=MWRpamlra3c5Ym1vcQ==)
 - ## 📬 Contact
 
