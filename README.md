@@ -1,4 +1,4 @@
-# Mahima — Final Surprise
+Final BirthDay Surprise
 
 A romantic, interactive birthday microsite built with **vanilla HTML, CSS, and JavaScript**. The experience is designed as a tap-through celebration: a passcode-protected opening screen leads into animated story slides, wish selection, an EmailJS-powered message flow, a surprise letter collection, and a final birthday celebration.
 
@@ -328,6 +328,10 @@ Made by **@Awakenedarpit**.
 
 - GitHub: [awakenedarpit/Mahima---Final-Surprise](https://github.com/awakenedarpit/Mahima---Final-Surprise)
 - Instagram: [@Awakenedarpit](https://www.instagram.com/awakenedarpit?igsh=MWRpamlra3c5Ym1vcQ==)
+- ## 📬 Contact
+
+Feel free to reach out to me at **[awakenedarpit@gmail.com](awakenedarpit@gmail.com)** for any questions, collaborations, or opportunities.
+
 
 ## License
 
