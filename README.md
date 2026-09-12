@@ -332,7 +332,7 @@ Made by **@Awakenedarpit**.
 - Instagram: [@Awakenedarpit](https://www.instagram.com/awakenedarpit?igsh=MWRpamlra3c5Ym1vcQ==)
 - ## 📬 Contact
 
-Feel free to reach out to me at **[awakenedarpit@gmail.com](awakenedarpit@gmail.com)** for any questions, collaborations, or opportunities.
+Feel free to reach out to me at **[awakenedarpit@gmail.com]** for any questions, collaborations, or opportunities.
 
 
 ## License
