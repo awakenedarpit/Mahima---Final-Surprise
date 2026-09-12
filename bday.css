@@ -587,18 +587,17 @@ h1 em{
 
 .reasons{
   position:relative;
-  z-index:4;
-  margin-top:20px; /* was 26px — cluster already adds its own spacing above */
+  z-index:1;
+  margin-top:24px;
 }
-
 .memory-cluster{
   position:relative;
   z-index:2;
+  height:170px;
+  margin-bottom:28px;
 }
-
-
 @media (max-width:420px){
-  .memory-cluster{ height:120px; margin-bottom:10px; }
+  .memory-cluster{ height:150px; margin-bottom:24px; }
   .mem-photo{ width:74px; }
   .mem-photo img{ height:78px; }
   .mem-photo{ animation-duration:6s; } /* slower float = smaller effective travel feel */
