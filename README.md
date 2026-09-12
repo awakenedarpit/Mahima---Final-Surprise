@@ -1,6 +1,8 @@
 Final BirthDay Surprise
 
-A romantic, interactive birthday microsite built with **vanilla HTML, CSS, and JavaScript**. The experience is designed as a tap-through celebration: a passcode-protected opening screen leads into animated story slides, wish selection, an EmailJS-powered message flow, a surprise letter collection, and a final birthday celebration.
+A tap-through birthday experience built with vanilla HTML, CSS and JS. Five story slides, ambient particles, a blow-out-the-candles interaction and a confetti finale.
+
+A Interactive birthday microsite built with **vanilla HTML, CSS, and JavaScript**. The experience is designed as a tap-through celebration: a passcode-protected opening screen leads into animated story slides, wish selection, an EmailJS-powered message flow, a surprise letter collection, and a final birthday celebration.
 
 > This project is a static front-end experience. It does not require a framework, build step, package manager, or application server.
 
