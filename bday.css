@@ -288,7 +288,7 @@ h1 em{
 @keyframes tinyFloat{0%,100%{transform:translateY(0);}50%{transform:translateY(-4px);}}
 
 /* ============ SLIDE 4: cake ============ */
-.cake-wrap{margin-bottom:24px;}
+.cake-wrap{width:160px;margin:0 auto 24px;}
 .cake{position:relative;width:160px;}
 .candles{display:flex;justify-content:center;gap:14px;margin-bottom:-4px;position:relative;z-index:2;}
 .candle{width:5px;height:34px;border-radius:3px;position:relative;}
