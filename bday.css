@@ -195,6 +195,15 @@ body{
 .slide::-webkit-scrollbar-track{background:transparent;}
 .slide::-webkit-scrollbar-thumb{background:var(--card-border);border-radius:10px;}
 
+/* The wishes section is taller than a laptop viewport. Start it at the top
+   instead of centering the overflowing flex content, which can hide the
+   beginning of the section and make it unreachable at scrollTop 0. */
+.slide[data-index="3"]{
+  justify-content:flex-start;
+  padding-top:clamp(82px,11vh,120px);
+  padding-bottom:clamp(82px,11vh,120px);
+}
+
 /* ============ FINAL SLIDE: scrollable so the full letter can be read ============ */
 .slide[data-index="5"]{
   justify-content:flex-start;
