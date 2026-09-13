@@ -195,3 +195,9 @@ Customized & crafted by **Awakenedarpit**.
 ## 📄 License
 
 No license file is currently included. Unless a license is added, the source should be treated as **all rights reserved**.
+
+
+<!-- awakenedarpit-credits-contact -->
+## 📬 Contact
+
+This project was created and is maintained by **Arpit Raj** ([@awakenedarpit](https://github.com/awakenedarpit)). For questions, suggestions, or collaboration, reach out through [GitHub](https://github.com/awakenedarpit) or open an issue in this repository.
