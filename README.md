@@ -201,3 +201,10 @@ No license file is currently included. Unless a license is added, the source sho
 ## 📬 Contact
 
 This project was created and is maintained by **Arpit Raj** ([@awakenedarpit](https://github.com/awakenedarpit)). For questions, suggestions, or collaboration, reach out through [GitHub](https://github.com/awakenedarpit) or open an issue in this repository.
+
+<!-- awakenedarpit-social-contact -->
+### Connect with Arpit
+
+- Instagram: [@awakenedarpit](https://www.instagram.com/awakenedarpit/)
+- LinkedIn: [Arpit Raj](https://www.linkedin.com/in/awakenedarpit/)
+- Email: [awakenedarpit@gmail.com](mailto:awakenedarpit@gmail.com)
